@@ -4,5 +4,5 @@
 
 ## 目录结构
 
-pypi_xxx 包含了各种包使用测试
-其他命名为各种 demo 验证
+pypi: 包含了各种包使用测试
+examples: 各种 demo 验证
